@@ -31,7 +31,7 @@
 \providecommand{\nominataCoordPPGCname}{\nominataCoordnamePPGC}
 
 % PGMicro
-\providecommand{\nominataCoordPGMICRO}{Prof.~Cl{\'a}udio Radtke}
+\providecommand{\nominataCoordPGMICRO}{Prof.~Jos{\'e} Rodrigo Furlanetto de Azambuja}
 \providecommand{\nominataCoordnamePGMICRO}{Coordenador do PGMICRO}
 \providecommand{\nominataCoordPGMICROname}{\nominataCoordnamePGMICRO}
 
@@ -56,5 +56,5 @@
 \providecommand{\nominataCoordCICname}{Coordenador do Curso de Ci{\^e}ncia de Computa{\c{c}}{\~a}o}
 
 %ECP
-\providecommand{\nominataCoordECP}{Prof.~Andr{\'e} In{\'a}cio Reis}
+\providecommand{\nominataCoordECP}{Prof.~Paulo Francisco Butzen}
 \providecommand{\nominataCoordECPname}{Coordenador do Curso de Engenharia de Computa{\c{c}}{\~a}o}
