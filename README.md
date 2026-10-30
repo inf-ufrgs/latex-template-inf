@@ -10,7 +10,7 @@ O projeto é compatível tanto com ambientes locais modernos (TeX Live 2021+) qu
 
 Este modelo é uma evolução direta da tradicional classe institucional `iiufrgs` (desenvolvida originalmente pelo *UFRGS TeX Users Group - UTUG* e amplamente difundida no Instituto) e do pacote mantido no GitHub pelo Prof. Lucas Mello Schnorr ([schnorr/infufrgs](https://github.com/schnorr/infufrgs)).
 
-A versão deste repositório foi reestruturada para solucionar limitações históricas de pacotes depreciados, modernizar o motor bibliográfico para `biblatex`/`biber` sem perder compatibilidade com documentos legados, e transformar os modelos em guias metodológicos ricos para os estudantes.
+A presente versão foi adaptada e atualizada pelo **Prof. Leandro Krug Wives**, com o auxílio do **Gemini** (Advanced Agentic Coding), com o objetivo de sanar limitações históricas de pacotes depreciados, modernizar o motor bibliográfico para `biblatex`/`biber` sem quebrar a compatibilidade com documentos legados, e transformar os modelos em guias metodológicos ricos e didáticos para os estudantes de graduação e pós-graduação.
 
 ---
 
@@ -115,6 +115,14 @@ latexmk -c
 
 ---
 
-## 5. Licença
+## 5. Autoria e Manutenção
+
+* **Autores Originais**: UFRGS TeX Users Group (UTUG) e colaboradores históricos do INF/UFRGS.
+* **Manutenção Prévia (infufrgs)**: Prof. Lucas Mello Schnorr ([@schnorr](https://github.com/schnorr)).
+* **Adaptação, Modernização e Guias Metodológicos (2026)**: Prof. Leandro Krug Wives ([@wives](https://github.com/wives) / [inf-ufrgs](https://github.com/inf-ufrgs)), com o auxílio do Google Gemini.
+
+---
+
+## 6. Licença
 
 Este trabalho é distribuído sob a **LaTeX Project Public License (LPPL)** versão 1.3c ou posterior. Consulte os cabeçalhos dos arquivos para informações históricas de copyright do UTUG e colaboradores.
