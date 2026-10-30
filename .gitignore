@@ -1,0 +1,35 @@
+# Arquivos intermediários e temporários gerados pelo LaTeX / pdfTeX / BibTeX / Biber
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.dvi
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+
+# Arquivos de backup e de editores
+*~
+*.bak
+*.old
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Saídas em PDF locais (mantenha os fontes .tex)
+# Caso deseje versionar os PDFs gerados, descomente a linha abaixo ou use 'git add -f'
+*.pdf
+
