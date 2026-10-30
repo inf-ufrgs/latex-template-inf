@@ -8,9 +8,9 @@ O projeto é compatível tanto com ambientes locais modernos (TeX Live 2021+) qu
 
 ## 1. Origem e Histórico
 
-Este modelo é uma evolução direta da tradicional classe institucional `iiufrgs` (desenvolvida originalmente pelo *UFRGS TeX Users Group - UTUG* e amplamente difundida no Instituto) e do pacote mantido no GitHub pelo Prof. Lucas Mello Schnorr ([schnorr/infufrgs](https://github.com/schnorr/infufrgs)).
+Este modelo é uma evolução direta da tradicional classe institucional `iiufrgs` (desenvolvida originalmente pelo *UFRGS TeX Users Group - UTUG* e amplamente difundida no Instituto) e do pacote oficial de referência mantido no GitHub pelo Prof. Lucas Mello Schnorr em [https://github.com/schnorr/infufrgs/](https://github.com/schnorr/infufrgs/).
 
-A presente versão foi adaptada e atualizada pelo **Prof. Leandro Krug Wives**, com o auxílio do **Gemini** (Advanced Agentic Coding), com o objetivo de sanar limitações históricas de pacotes depreciados, modernizar o motor bibliográfico para `biblatex`/`biber` sem quebrar a compatibilidade com documentos legados, e transformar os modelos em guias metodológicos ricos e didáticos para os estudantes de graduação e pós-graduação.
+A presente versão (hospedada em [https://github.com/inf-ufrgs/latex-template-inf](https://github.com/inf-ufrgs/latex-template-inf)) foi adaptada e atualizada pelo **Prof. Leandro Krug Wives**, com o auxílio do **Gemini** (Advanced Agentic Coding), com o objetivo de sanar limitações históricas de pacotes depreciados, modernizar o motor bibliográfico para `biblatex`/`biber` sem quebrar a compatibilidade com documentos legados, e transformar os modelos em guias metodológicos ricos e didáticos para os estudantes de graduação e pós-graduação.
 
 ---
 
@@ -118,7 +118,7 @@ latexmk -c
 ## 5. Autoria e Manutenção
 
 * **Autores Originais**: UFRGS TeX Users Group (UTUG) e colaboradores históricos do INF/UFRGS.
-* **Manutenção Prévia (infufrgs)**: Prof. Lucas Mello Schnorr ([@schnorr](https://github.com/schnorr)).
+* **Repositório de Referência (infufrgs)**: Mantido pelo Prof. Lucas Mello Schnorr em [https://github.com/schnorr/infufrgs/](https://github.com/schnorr/infufrgs/).
 * **Adaptação, Modernização e Guias Metodológicos (2026)**: Prof. Leandro Krug Wives ([@wives](https://github.com/wives) / [inf-ufrgs](https://github.com/inf-ufrgs)), com o auxílio do Google Gemini.
 
 ---
